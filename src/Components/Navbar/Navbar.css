@@ -1,0 +1,11 @@
+.Navbar {
+  background-color: rgb(5, 124, 124);
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Navbar h1,
+h2 {
+  color: white;
+}
