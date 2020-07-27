@@ -10,4 +10,4 @@ We all have those days when there are a million things to do, and we don't know 
 Check the project:
 https://aayushtyagi1.github.io/React-To-do-List/
 
-![Alt-Text](https://github.com/AayushTyagi1/React-To-do-List/blob/master/Todolist.JPG)
+![Alt-Text](https://github.com/AayushTyagi1/React-To-do-List/blob/gh-pages/Todolist.JPG)
